@@ -8,7 +8,7 @@ export const ProjectsList = [
   {
     name: "Dijkstra Algorithm Visualizer",
     image: Project1,
-    skills: "JavaScript,HTML,CSS",
+    skills: ["JavaScript", "HTML", "CSS"],
     link: [
       {
         url: "https://github.com/ikramdeveloper",
@@ -19,7 +19,7 @@ export const ProjectsList = [
   {
     name: "Ecommerce Website",
     image: Project2,
-    skills: "React,Node.js,MongoDB",
+    skills: ["React", "NodeJS", "MongoDB"],
     link: [
       {
         url: "https://github.com/ikramdeveloper",
@@ -30,7 +30,7 @@ export const ProjectsList = [
   {
     name: "Spotify Clone",
     image: Project3,
-    skills: "React,Node.js,MongoDB,SpotifyAPI",
+    skills: ["React", "Node.js", "MongoDB", "SpotifyAPI"],
     link: [
       {
         url: "https://github.com/ikramdeveloper",
@@ -41,7 +41,7 @@ export const ProjectsList = [
   {
     name: "Social Media Website",
     image: Project4,
-    skills: "React,Node.js,MySQL,GraphQL",
+    skills: ["React", "NodeJS", "MySQL", "GraphQL"],
     link: [
       {
         url: "https://github.com/ikramdeveloper",
@@ -52,7 +52,7 @@ export const ProjectsList = [
   {
     name: "Dashboard Visualizer",
     image: Project5,
-    skills: "JavaScript,HTML,CSS",
+    skills: ["JavaScript", "HTML", "CSS"],
     link: [
       {
         url: "https://github.com/ikramdeveloper",
@@ -63,7 +63,7 @@ export const ProjectsList = [
   {
     name: "Mobile Game",
     image: Project6,
-    skills: "React Native,JavaScript,HTML,CSS",
+    skills: ["React Native", "JavaScript", "HTML", "CSS"],
     link: [
       {
         url: "https://github.com/ikramdeveloper",

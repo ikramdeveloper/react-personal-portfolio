@@ -19,7 +19,9 @@ const SingleProject = () => {
       <h1>{project.name}</h1>
       <img src={project.image} alt={project.name} />
       <p>
-        <b>Skills:</b> {project.skills}
+        {project.skills.map((skill) => (
+          <span key={skill}>{skill}, </span>
+        ))}
       </p>
       {project.link && (
         <div className="link">
