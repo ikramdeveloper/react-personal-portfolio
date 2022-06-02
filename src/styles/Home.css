@@ -67,11 +67,12 @@
 @media only screen and (max-width: 600px) {
   .about h1 {
     font-size: 3.5rem;
+    margin-inline: 0.6rem;
   }
 
   .about .prompt {
     margin-top: 10px;
-    font-size: 1.5rem;
+    font-size: 1.8rem;
     width: 80%;
   }
   .skills {
@@ -85,3 +86,5 @@
     font-size: 1.8rem;
   }
 }
+
+/* @media (max-width: ) */
